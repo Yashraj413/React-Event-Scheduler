@@ -24,4 +24,21 @@ This project is a reusable React component that lets you:
 
 ---
 
+## 📁 What’s Inside
 
+src/
+components/
+📅 DatePickerUI.jsx // Date selector
+🔁 RecurrenceOptions.jsx // Recurrence radio buttons
+👀 PreviewCalendar.jsx // Preview of upcoming dates
+🧩 Scheduler.jsx // Main UI wrapper for all components
+
+utils/
+recurrenceUtils.js // Date logic (recurrence generator)
+
+tests/
+🌡️ recurrenceUtils.test.js
+🔬 Scheduler.test.jsx
+
+App.jsx
+index.js
