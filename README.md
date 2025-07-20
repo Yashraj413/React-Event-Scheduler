@@ -107,7 +107,7 @@ Want to take it further? Some fun ideas:
 ## 👨‍💻 Author
 
 Made with ⚛️ by **Yash Raj**  
-[GitHub]([https://github.com/your-username](https://github.com/Yashraj413)) 
+[GitHub](https://github.com/Yashraj413)
 
 ---
 
