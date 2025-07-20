@@ -41,4 +41,85 @@ tests/
 🔬 Scheduler.test.jsx
 
 App.jsx
+
+---
+
+## 🚀 Getting Started
+
+Clone the repo and jump in:
+
+git clone https://github.com/your-username/react-event-scheduler
+cd react-event-scheduler
+npm install
+npm start
+
+text
+
+To run tests:
+
+npm test
+
+text
+
+---
+
+## 🧪 Example Usage
+
+Once installed, just drop the `Scheduler` component into your app:
+
+import Scheduler from './components/Scheduler';
+
+function App() {
+return (
+<div>
+<h1>Plan Your Event</h1>
+<Scheduler />
+</div>
+);
+}
+
+text
+
+Want to get fancier? Use the subcomponents individually:  
+`<DatePickerUI />`, `<RecurrenceOptions />`, and `<PreviewCalendar />`.
+
+---
+
+## 🧠 Why I Made This
+
+Sometimes all you need is a simple, reusable way to select a date and see when something repeats. Whether you're building a planner app, scheduling tool, or just automating reminders, this gives you a clean head start. Bonus: It's modular and testable from the ground up.
+
+---
+
+## 🛠️ Customize Me!
+
+Want to take it further? Some fun ideas:
+
+- Add support for **end dates** or number of recurrences
+- Let users choose specific days of the week (e.g. Mon & Wed only)
+- Export results as an `.ics` file for calendar import
+- Add styling libraries like Tailwind or Material UI
+
+---
+
+## 👨‍💻 Author
+
+Made with ⚛️ by **Your Name**  
+[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+## 📃 License
+
+MIT — use it, modify it, build cool stuff with it. Just give credit. 🤝
+
+---
+
+## 🙌 Contributions?
+
+Pull requests are welcome! Bug fixes, features, ideas — bring it on.  
+Let’s build something useful together. 💙
+
+---
+
 index.js
