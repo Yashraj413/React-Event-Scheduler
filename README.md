@@ -42,13 +42,15 @@ tests/
 
 App.jsx
 
+index.js
+
 ---
 
 ## 🚀 Getting Started
 
 Clone the repo and jump in:
 
-git clone https://github.com/your-username/react-event-scheduler
+git clone https://github.com/Yashraj413/React-Event-Scheduler
 cd react-event-scheduler
 npm install
 npm start
@@ -104,14 +106,14 @@ Want to take it further? Some fun ideas:
 
 ## 👨‍💻 Author
 
-Made with ⚛️ by **Your Name**  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+Made with ⚛️ by **Yash Raj**  
+[GitHub]([https://github.com/your-username](https://github.com/Yashraj413)) 
 
 ---
 
 ## 📃 License
 
-MIT — use it, modify it, build cool stuff with it. Just give credit. 🤝
+Use it, modify it, build cool stuff with it. Just give credit. 🤝
 
 ---
 
@@ -122,4 +124,3 @@ Let’s build something useful together. 💙
 
 ---
 
-index.js
