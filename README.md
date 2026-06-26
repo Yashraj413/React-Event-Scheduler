@@ -1,11 +1,11 @@
-# 🗓️ React Event Scheduler
+#  React Event Scheduler
 
 A clean and simple date-based event scheduler built with React.  
 Pick a date, choose how often it repeats (daily, weekly, monthly), and instantly preview upcoming events. Perfect for calendars, planners, or productivity tools.
 
 ---
 
-## ✨ What This Is
+##  What This Is
 
 This project is a reusable React component that lets you:
 
@@ -16,7 +16,7 @@ This project is a reusable React component that lets you:
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - **React** – Front-end framework
 - **date-fns** – Date formatting & manipulation
@@ -24,7 +24,7 @@ This project is a reusable React component that lets you:
 
 ---
 
-## 📁 What’s Inside
+##  What’s Inside
 
 src/
 components/
@@ -65,7 +65,7 @@ text
 
 ---
 
-## 🧪 Example Usage
+##  Example Usage
 
 Once installed, just drop the `Scheduler` component into your app:
 
@@ -87,13 +87,13 @@ Want to get fancier? Use the subcomponents individually:
 
 ---
 
-## 🧠 Why I Made This
+##  Why I Made This
 
 Sometimes all you need is a simple, reusable way to select a date and see when something repeats. Whether you're building a planner app, scheduling tool, or just automating reminders, this gives you a clean head start. Bonus: It's modular and testable from the ground up.
 
 ---
 
-## 🛠️ Customize Me!
+##  Customize Me!
 
 Want to take it further? Some fun ideas:
 
@@ -104,20 +104,20 @@ Want to take it further? Some fun ideas:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Made with ⚛️ by **Yash Raj**  
 [GitHub](https://github.com/Yashraj413)
 
 ---
 
-## 📃 License
+##  License
 
 Use it, modify it, build cool stuff with it. Just give credit. 🤝
 
 ---
 
-## 🙌 Contributions?
+##  Contributions?
 
 Pull requests are welcome! Bug fixes, features, ideas — bring it on.  
 Let’s build something useful together. 💙
