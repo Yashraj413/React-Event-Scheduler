@@ -6,9 +6,7 @@ import { generateOccurrences } from "../utils/recurrenceUtils";
 const Scheduler = () => {
   const [recurrence, setRecurrence] = useState("none");
   const [date, setDate] = useState(() => new Date().toISOString().slice(0, 10));
-
   const occurrences = generateOccurrences(date, recurrence);
-
   return (
     <div>
       <h2>Schedule an Event</h2>
@@ -18,5 +16,4 @@ const Scheduler = () => {
     </div>
   );
 };
-
 export default Scheduler;
