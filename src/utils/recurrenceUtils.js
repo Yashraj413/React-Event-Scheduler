@@ -11,7 +11,6 @@ export function generateOccurrences(startDate, recurrence, count = 5) {
   if (!startDate) return [];
   const results = [];
   let current = new Date(startDate);
-
   for (let i = 0; i < count; ++i) {
     results.push(format(current, "yyyy-MM-dd"));
     if (recurrence === "none") break;
