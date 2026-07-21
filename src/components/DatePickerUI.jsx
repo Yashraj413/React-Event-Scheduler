@@ -1,9 +1,8 @@
 import React from "react";
-
 const DatePickerUI = ({ date, onChange }) => (
   <div>
     <label>
-      Select Start Date:&nbsp;
+      Select Start Date: &nbsp;
       <input
         type="date"
         value={date}
