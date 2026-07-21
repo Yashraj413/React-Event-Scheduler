@@ -9,10 +9,10 @@ Pick a date, choose how often it repeats (daily, weekly, monthly), and instantly
 
 This project is a reusable React component that lets you:
 
-✅ Select a **start date**  
-🔁 Choose a **recurrence** (none, daily, weekly, monthly)  
-🔍 See a **preview** of upcoming event dates  
-💡 All in a modular, well-tested component
+ Select a **start date**  
+ Choose a **recurrence** (none, daily, weekly, monthly)  
+ See a **preview** of upcoming event dates  
+ All in a modular, well-tested component
 
 ---
 
