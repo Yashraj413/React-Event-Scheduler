@@ -47,9 +47,7 @@ index.js
 ---
 
 ## 🚀 Getting Started
-
 Clone the repo and jump in:
-
 git clone https://github.com/Yashraj413/React-Event-Scheduler
 cd react-event-scheduler
 npm install
@@ -123,4 +121,3 @@ Pull requests are welcome! Bug fixes, features, ideas — bring it on.
 Let’s build something useful together. 💙
 
 ---
-
